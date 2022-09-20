@@ -1,1 +1,2 @@
-# 2.Implementaci-n-de-la-identidad-h-brida
+# 2.Implementacion-de-la-identidad-hibrida
+## No existe reto en este modulo
